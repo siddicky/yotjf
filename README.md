@@ -94,6 +94,8 @@ cat ~/flag1.txt
 
 ## Task 2
 
+### Using Linux Exploit Suggester
+
 Enumeration Results
 
 ```
